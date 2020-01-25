@@ -21,5 +21,6 @@ una -n, --name
 una -h, --help
 
 # Requirements
-python 3.7 \n
+python 3.7
+
 An operating system (tested on all distory)
