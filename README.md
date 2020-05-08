@@ -16,19 +16,17 @@ sudo rm -f /usr/bin/una
 # usage
 una -a, --all
 
-una -v, --version
+una -p, --python
 
-una -m, --machine
+una -s, --system
 
-una -f, --host
-
-una -r, --release
-
-una -n, --name
-
-una -h, --help
+una -d, --dist
 
 # Requirements
 python 3.7
+  - os
+  - sys
+  - pstr
+  - platform
 
-An operating system (tested on all distory)
+An operating system (tested on all linux distory)
